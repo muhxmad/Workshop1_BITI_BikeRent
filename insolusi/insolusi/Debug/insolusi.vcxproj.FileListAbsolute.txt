@@ -1,0 +1,21 @@
+C:\Users\Asus\source\repos\insolusi\insolusi\Debug\insolusi.AdminForm.resources
+C:\Users\Asus\source\repos\insolusi\insolusi\Debug\insolusi.BikeListForm.resources
+C:\Users\Asus\source\repos\insolusi\insolusi\Debug\insolusi.BikeRiderListForm.resources
+C:\Users\Asus\source\repos\insolusi\insolusi\Debug\insolusi.LoginForm.resources
+C:\Users\Asus\source\repos\insolusi\insolusi\Debug\insolusi.mainMenuForm.resources
+C:\Users\Asus\source\repos\insolusi\insolusi\Debug\insolusi.RegisterForm.resources
+C:\Users\Asus\source\repos\insolusi\insolusi\Debug\insolusi.ReservationListForm.resources
+C:\Users\Asus\source\repos\insolusi\insolusi\Debug\insolusi.vcxproj.GenerateResource.cache
+C:\Users\Asus\source\repos\insolusi\insolusi\Debug\insolusi.vcxproj.CopyComplete
+C:\Users\Asus\source\repos\insolusi\insolusi\Debug\insolusi.DailyReport.resources
+C:\Users\Asus\Desktop\UniStuff\Workshop Stuff\insolusi\insolusi\Debug\insolusi.vcxprojAssemblyReference.cache
+C:\Users\Asus\Desktop\UniStuff\Workshop Stuff\insolusi\insolusi\Debug\insolusi.AdminForm.resources
+C:\Users\Asus\Desktop\UniStuff\Workshop Stuff\insolusi\insolusi\Debug\insolusi.BikeListForm.resources
+C:\Users\Asus\Desktop\UniStuff\Workshop Stuff\insolusi\insolusi\Debug\insolusi.BikeRiderListForm.resources
+C:\Users\Asus\Desktop\UniStuff\Workshop Stuff\insolusi\insolusi\Debug\insolusi.DailyReport.resources
+C:\Users\Asus\Desktop\UniStuff\Workshop Stuff\insolusi\insolusi\Debug\insolusi.LoginForm.resources
+C:\Users\Asus\Desktop\UniStuff\Workshop Stuff\insolusi\insolusi\Debug\insolusi.mainMenuForm.resources
+C:\Users\Asus\Desktop\UniStuff\Workshop Stuff\insolusi\insolusi\Debug\insolusi.RegisterForm.resources
+C:\Users\Asus\Desktop\UniStuff\Workshop Stuff\insolusi\insolusi\Debug\insolusi.ReservationListForm.resources
+C:\Users\Asus\Desktop\UniStuff\Workshop Stuff\insolusi\insolusi\Debug\insolusi.vcxproj.GenerateResource.cache
+C:\Users\Asus\Desktop\UniStuff\Workshop Stuff\insolusi\insolusi\Debug\insolusi.vcxproj.CopyComplete
